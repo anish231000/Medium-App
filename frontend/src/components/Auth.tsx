@@ -1,4 +1,4 @@
-import { SignupInput } from "@anish2310/medium-common"
+import { SignupInput } from "@anish2310/zod-validation";
 import axios from "axios"
 import { ChangeEvent, useState } from "react"
 import { Link, useNavigate } from "react-router-dom"
